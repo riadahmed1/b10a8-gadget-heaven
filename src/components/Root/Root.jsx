@@ -7,7 +7,7 @@ const Root = () => {
   const isHome = location.pathname === "/"
 
   return (
-    <div className='flex flex-col min-h-screen w-8/12 mx-auto'>
+    <div className='flex flex-col min-h-screen w-10/12 mx-auto'>
       <div className={`${isHome ? 'bg-purple-600 px-2 pt-2 rounded-t-2xl mt-5' : 'bg-none px-2 pt-2 rounded-t-2xl mt-5'}`}>
         <Navbar></Navbar>
       </div>

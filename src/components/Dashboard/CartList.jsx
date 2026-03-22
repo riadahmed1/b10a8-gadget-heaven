@@ -58,7 +58,7 @@ const CartList = () => {
       <dialog id="success_modal" className="modal modal-bottom sm:modal-middle">
         <div className="modal-box text-center">
           <div className='flex justify-center mb-4'>
-            <img src="/src/assets/Group.png" alt="" />
+            <img src="/images/Group.png" alt="" />
           </div>
           <h3 className="font-bold text-lg">Payment Successful</h3>
           <hr className='opacity-30 mx-auto w-11/12 mt-2 mb-3' />

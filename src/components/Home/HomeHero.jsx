@@ -15,7 +15,7 @@ const HomeHero = () => {
         </button>
       </div>
       <div className="relative -mt-36 z-10 border p-4 bg-white/30 rounded-3xl w-8/12 mx-auto">
-        <img className="rounded-3xl" src="/src/assets/banner.jpg" alt="" />
+        <img className="rounded-3xl" src="/images/banner.jpg" alt="" />
       </div>
     </div>
   );
