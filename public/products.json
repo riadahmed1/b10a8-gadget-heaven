@@ -1,0 +1,112 @@
+[
+  {
+    "product_id": "LP001",
+    "product_title": "Apple MacBook Air M2",
+    "product_image": "https://i.ibb.co.com/HqjVqG6/Laptop-6.jpg",
+    "category": "Laptop",
+    "price": 95,
+    "description": "The thinnest, lightest notebook, completely transformed by the Apple M2 chip.",
+    "Specification": ["8-Core CPU", "8GB Unified Memory", "256GB SSD storage", "13.6-inch Liquid Retina display"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "LP002",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/y0XZjhg/Laptop-1.png",
+    "category": "Laptop",
+    "price": 88,
+    "description": "Experience breathtaking visuals and incredible performance with the new XPS 13.",
+    "Specification": ["Intel Core i7", "16GB RAM", "512GB SSD", "InfinityEdge Touch Display"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "LP003",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co.com/dm8dyQb/Laptop-3.jpg",
+    "category": "Laptop",
+    "price": 99,
+    "description": "A premium 2-in-1 laptop with a stunning OLED display and long battery life.",
+    "Specification": ["Intel Evo i7", "16GB RAM", "1TB SSD", "OLED Touchscreen"],
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "product_id": "LP004",
+    "product_title": "Lenovo Legion 5 Pro",
+    "product_image": "https://i.ibb.co.com/rvxYR8p/Laptop-2.jpg",
+    "category": "Laptop",
+    "price": 75,
+    "description": "Pro-level gaming performance with the latest Ryzen processors and RTX graphics.",
+    "Specification": ["Ryzen 7 5800H", "RTX 3070", "16GB RAM", "16-inch QHD Display"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "LP005",
+    "product_title": "ASUS Zenbook 14",
+    "product_image": "https://i.ibb.co.com/xMbspkp/Laptop-4.jpg",
+    "category": "Laptop",
+    "price": 62,
+    "description": "Elegant design meets powerful performance in this ultra-portable Zenbook.",
+    "Specification": ["Ryzen 5 7000 series", "8GB RAM", "512GB SSD", "ErgoSense Keyboard"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "LP006",
+    "product_title": "Acer Swift 3",
+    "product_image": "https://i.ibb.co.com/wJHXCX8/Laptop-5.jpg",
+    "category": "Laptop",
+    "price": 54,
+    "description": "A budget-friendly ultrabook that doesn't compromise on speed or style.",
+    "Specification": ["Intel Core i5", "8GB RAM", "256GB SSD", "Fingerprint Reader"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "MB001",
+    "product_title": "iPhone 15 Pro",
+    "product_image": "https://i.ibb.co.com/KXTDpkB/Mobile-Phone-1.png",
+    "category": "Mobile",
+    "price": 89,
+    "description": "Titanium design with the A17 Pro chip for the ultimate smartphone experience.",
+    "Specification": ["A17 Pro Chip", "48MP Main Camera", "Dynamic Island", "USB-C Support"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "MB002",
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://i.ibb.co.com/fF4FqXn/Mobile-Phone-2.png",
+    "category": "Mobile",
+    "price": 82,
+    "description": "The ultimate Android phone with a built-in S Pen and 200MP camera.",
+    "Specification": ["Snapdragon 8 Gen 2", "12GB RAM", "200MP Camera", "5000mAh Battery"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "HD001",
+    "product_title": "Sony WH-1000XM5",
+    "product_image": "https://i.ibb.co.com/nkDNK4x/Headphone-1.jpg",
+    "category": "Headphone",
+    "price": 68,
+    "description": "Industry-leading noise canceling with exceptional sound quality.",
+    "Specification": ["ANC", "30-hour Battery", "Multipoint Connection", "Speak-to-Chat"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "HD002",
+    "product_title": "Bose QuietComfort 45",
+    "product_image": "https://i.ibb.co.com/cYB2GzW/Headphone-2.jpg",
+    "category": "Headphone",
+    "price": 57,
+    "description": "The perfect balance of quiet, comfort, and sound you’ll enjoy all day.",
+    "Specification": ["World-class ANC", "Acoustic Noise Cancelling", "Aware Mode", "24-hour Battery"],
+    "availability": true,
+    "rating": 4.7
+  }
+]
